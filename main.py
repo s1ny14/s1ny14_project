@@ -1,7 +1,5 @@
 print('Hello, GitHub!')
 
-print('Hello, GitHub!')
-
 #laba 2 funkcii
 print("Таблица умножения:")
 for i in range(1, 11):
